@@ -1,5 +1,6 @@
 # Custom stuff
 moonscript/
+releases/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
